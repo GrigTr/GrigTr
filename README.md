@@ -56,19 +56,3 @@ My contacts:
 | 6.   | [Анализ продаж интернет магазина](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/powerbi_wb.pdf) | Аналитика продаж и финансовых показателей интернет магазина.             | Power Bi |
 | 7.   | [Лояльность пользователей](https://public.tableau.com/app/profile/.78138872/viz/NetPromoterScore_17083280703130/sheet15) | Исследование опроса клиентов телекомунникацонной компании.     | Tableau |
 | 8.   | [Дурак без козырей](https://github.com/KuBaN658/fool_without_trump) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="65"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="65" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="65" height="80"/>&nbsp;
-  
-</div>
