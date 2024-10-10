@@ -31,8 +31,7 @@ My contacts:
 
 ### BI
 
-<img src="https://img.shields.io/badge/Tableau%20-%20E97627?style=for-the-badge&logo=Tableau&color=%23ccbde4"> <img src="![Static Badge](https://img.shields.io/badge/Superset%20-%2020A6C9?style=for-the-badge&logo=Apache%20Superset&color=%23e6cbbe)
-">
+<img src="https://img.shields.io/badge/Tableau%20-%20E97627?style=for-the-badge&logo=Tableau&color=%23ccbde4"> <img src="https://img.shields.io/badge/Superset%20-%2020A6C9?style=for-the-badge&logo=Apache%20Superset&color=%23e6cbbe">
 
 
 ### Instruments
