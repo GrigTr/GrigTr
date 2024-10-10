@@ -11,10 +11,17 @@
 - I'm continuously expanding my knowledge in Data Science and Machine Learning, and I'm open to new opportunities in these fields.
 
 My contacts:
-
-- 📲 [Telegram](https://t.me/martynov_dm)
-- 💻 [LinkedIn](https://www.linkedin.com/in/dmitrii-martynov/)
-- ✉ [dmitriimartynov1@gmail.com](mailto:dmitriimartynov1@gmail.com)
+<div id="badges" align="left">
+  <a href="https://t.me/KuBaN_123">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stepik.org/users/562531453/">
+    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/garkovski_dmitri/">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
+</div>
 
 ---
 
