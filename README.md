@@ -27,7 +27,7 @@ My contacts:
 
 ### Data
 
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&color=%23e6e6e6"/> <img src="https://img.shields.io/badge/sql alchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/SciPy%20-%208CAAE6?style=for-the-badge&logo=SciPy&color=%23f0e0a8"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&color=%23c9e4fb"/> <img src="https://img.shields.io/badge/sql alchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/SciPy%20-%208CAAE6?style=for-the-badge&logo=SciPy&color=%23f0e0a8"/>
 
 ### BI
 
