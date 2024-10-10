@@ -40,7 +40,7 @@ My contacts:
 
 ### Machine Learning
 
-<img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/xgboost-26A5E4?style=for-the-badge"/> <img src="https://img.shields.io/badge/lightgbm-228B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=black"/> <img src="https://img.shields.io/badge/clear | ml-26A5E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 
 ---
 
