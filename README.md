@@ -19,7 +19,7 @@ My contacts:
 
 ---
 
-## Technologies
+## :hammer_and_wrench: Technologies
 
 ### Python and apps
 
