@@ -48,5 +48,5 @@ My contacts:
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Анализ вакансий](https://github.com/GrigTr/DA_DS_analysis.git) | Анализ вакансий Data Analyst и Data Science и выявление востребованных навыков на рынке труда. | Pandas, Matplotlib, Seaborn, Datalens, requests, numpy      |
+| 1.   | [Анализ вакансий](https://github.com/GrigTr/DA_DS_analysis.git) | Анализ вакансий Data Analyst и Data Science, выявление востребованных навыков и предоставление рекомендаций соискателям. | Pandas, Matplotlib, Seaborn, Datalens, requests, numpy      |
 
