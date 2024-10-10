@@ -12,7 +12,7 @@
 
 My contacts:
 <div id="badges" align="left">
-  <a href="https://t.me/KuBaN_123">
+  <a href="https://t.me/grigTr">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
