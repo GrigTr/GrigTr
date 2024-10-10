@@ -31,7 +31,7 @@ My contacts:
 
 ### Instruments
 
-<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
 
 ### Machine Learning
 
