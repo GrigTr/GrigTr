@@ -31,7 +31,7 @@ My contacts:
 
 ### Instruments
 
-<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/><img src="https://img.shields.io/badge/Redash-%D0%90%D0%907964?style=for-the-badge&logo=Redash&logoColor=orange&color=grey"/>
 
 ### Machine Learning
 
@@ -39,7 +39,7 @@ My contacts:
 
 ### Deep Learning
 
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> <img src="https://img.shields.io/badge/opencv-32CD32?style=for-the-badge&logo=opencv&logoColor=black"/> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=black"/> <img src="https://img.shields.io/badge/hugging face-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/yolo-FF00FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/roboflow-800080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> <img src="https://img.shields.io/badge/opencv-32CD32?style=for-the-badge&logo=opencv&logoColor=black"/> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=black"/> <img src="https://img.shields.io/badge/hugging face-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/yolo-FF00FF?style=for-the-badge"/>
 
 ---
 
