@@ -29,6 +29,11 @@ My contacts:
 
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black"/> <img src="https://img.shields.io/badge/sql alchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 
+### BI
+
+<img src="https://img.shields.io/badge/SciPy%20-%208CAAE6?style=for-the-badge&logo=SciPy&color=%23f0e0a8"/> <img src="https://img.shields.io/badge/Tableau%20-%20E97627?style=for-the-badge&logo=Tableau&color=%23ccbde4">
+
+
 ### Instruments
 
 <img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/> <img src="https://img.shields.io/badge/Redash-%D0%90%D0%907964?style=for-the-badge&logo=Redash&logoColor=orange&color=grey"/>
@@ -36,10 +41,6 @@ My contacts:
 ### Machine Learning
 
 <img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/xgboost-26A5E4?style=for-the-badge"/> <img src="https://img.shields.io/badge/lightgbm-228B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=black"/> <img src="https://img.shields.io/badge/clear | ml-26A5E4?style=for-the-badge"/>
-
-### Deep Learning
-
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=black"/> <img src="https://img.shields.io/badge/opencv-32CD32?style=for-the-badge&logo=opencv&logoColor=black"/> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=black"/> <img src="https://img.shields.io/badge/hugging face-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/yolo-FF00FF?style=for-the-badge"/>
 
 ---
 
