@@ -2,9 +2,9 @@
 
 </div>
 
-- I'm a Machine Learning Engineer and Master's student at AI Talent Hub ITMO, focusing on Machine Learning, Deep Learning, NLP/LLM, and Computer Vision.
+- I'm a Data Analytic.
 
-- Previously, I worked as a Senior Software Engineer. I've now transitioned into Data Science.
+-  I am currently working as a data analyst for a space corporation, researching data, finding anomalies and looking for ways to improve production processes.
 
 - I apply my programming expertise to data analysis and ML model development projects.
 
