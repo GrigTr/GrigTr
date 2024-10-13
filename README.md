@@ -6,7 +6,7 @@
 
 - Сurrently working as a data analyst for a space corporation, researching data, finding anomalies and looking for ways to improve production processes.
 
-- I'm continuously expanding my knowledge in Data Science and Machine Learning, and I'm open to new opportunities in these fields.
+- I'm continuously expanding my knowledge in Data Science, and I'm open to new opportunities in these fields.
 
 My contacts:
 <div id="badges" align="left">
